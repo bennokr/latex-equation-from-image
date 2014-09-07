@@ -1,0 +1,51 @@
+^{}
+_{}
+
+# with subscript
+\lim_{}
+\max_{}
+
+# with super- and subscript
+# todo: either one separate
+\sum^{}_{}
+\prod^{}_{}
+\coprod^{}_{}
+\bigoplus^{}_{}
+\bigotimes^{}_{}
+\bigodot^{}_{}
+\bigcup^{}_{}
+\bigcap^{}_{}
+\biguplus^{}_{}
+\bigsqcup^{}_{}
+\bigvee^{}_{}
+\bigwedge^{}_{}
+\int^{}_{}
+\oint^{}_{}
+
+# between
+{{} \over {}}
+{{} \choose {}}
+
+# under
+#\sqrt[]{} # complicated!
+#\sqrt{}
+
+# fancy stuff
+\hat{}
+\bar{}
+\grave{}
+\acute{}
+\dot{}
+\ddot{}
+\not{}
+\mathring{}
+\overrightarrow{}
+\overleftarrow{}
+\overline{}
+\check{}
+\breve{}
+\vec{}
+\widehat{}
+\widetilde{}
+\tilde{}
+\underline{}
