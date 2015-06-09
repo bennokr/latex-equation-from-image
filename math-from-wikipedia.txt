@@ -1,0 +1,432 @@
+{\bar \alpha(\theta_i)}
+\bar{ \bar \alpha}
+{D}
+{\alpha}
+{\alpha}= (1-D) \bar \alpha(\theta_i) + D \bar{ \bar \alpha}.
+A =\left ( \frac{1329\times10^{-H/5}}{D} \right ) ^2
+A
+D
+H
+a_1,\ldots,a_n.
+A
+A=\frac{1}{n}\sum_{i=1}^{n} a_i
+\bar{x}
+n
+x_1,x_2,\ldots,x_n
+x_1,\dotsc,x_n
+\bar{x}
+(x_1-\bar{x}) + \dotsb + (x_n-\bar{x}) = 0
+x_i-\bar{x}
+x_1,\dotsc,x_n
+(x_i-\bar{x})^2
+{1,2,3,4}
+2.5
+{1,2,4,8,16}
+3
+5
+\frac{(3+5)}{2} = 4
+\left( \frac{1}{2} \cdot 3\right) + \left( \frac{1}{2} \cdot 5\right) = 4
+\left( \frac{2}{3} \cdot 3\right) + \left(\frac{1}{3} \cdot 5\right) = \frac{11}{3}
+(2/3)
+(1/3)
+\frac{1}{2}
+\frac{1}{n}
+n
+\varepsilon
+\varepsilon \thicksim N(0, \sigma^2).\,
+y_{i,j}
+i
+j
+y_i
+ t_j
+y_{i,j}=y_i+t_j.
+j
+j
+t_j
+s^2=\textstyle\frac{1}{n-1}\sum(y_i-\bar{y})^2
+SS_\text{Total} = SS_\text{Error} + SS_\text{Treatments}
+DF_\text{Total} = DF_\text{Error} + DF_\text{Treatments}
+F = \frac{\text{variance between treatments}}{\text{variance within treatments}}
+F = \frac{MS_\text{Treatments}}{MS_\text{Error}} = {{SS_\text{Treatments} / (I-1)} \over {SS_\text{Error} / (n_T-I)}}
+I
+n_T
+I - 1
+n_T - I
+K_a = \frac{[\mbox{H}^+] [\mbox{A}^-]}{[\mbox{HA}]}
+(P \to Q)\leftrightarrow (\neg Q \to \neg P)
+f=f(x)
+f=f(y+1)
+f=f(x)
+(y+1)
+f
+(y+1)
+a/bc
+a/(bc)
+ s i n \alpha
+s
+i
+n
+\alpha
+\sin[\alpha]
+T_{mnk}
+m
+n
+k
+T_{mnk}
+T_{m,n,k}
+F_{x}
+\sin^2\alpha/2\,
+(\sin(\alpha/2))^2\,
+(\sin(\alpha))^2/2\,
+\sin^2(x)
+\sin(\sin(x))
+\exp^2(x)
+\exp(\exp(x))
+\sin^{-1}\alpha
+\arcsin(\alpha)
+(\sin(\alpha))^{-1}
+\sin^{n} \alpha
+(\sin(\alpha))^{n}\,
+a/2b\,
+(a/2)b\,
+a/(2b)\,
+~|\alpha\rangle~ 
+~|n\rangle~
+~n~
+~|x\rangle~
+~|p\rangle~
+ |1\rangle 
+X=Y
+X=2, X=3
+~f(\omega)=\int f(t) \exp(i\omega t) {\rm d}t 
+~ f=0 ~
+~ f ~
+~f(\omega)=\frac{1}{\sqrt{2\pi}}\int f(t) \exp(i\omega t) {\rm d}t 
+\int |f(x)|^2 {\rm d}x 
+~t~
+~\tau~
+~\omega~
+~f(\omega t)~
+~f(y)~
+~t~
+~\omega~
+\rm 1\ A=1\tfrac C s.
+(S_i)_{i \in I}
+(x_i)_{i \in I}
+x_i \in S_i
+i \in I
+\forall X \left[ \emptyset \notin X \implies \exists f \colon X \rightarrow \bigcup X \quad \forall A \in X \, ( f(A) \in A ) \right] \,.
+G_S
+S
+ (1+x^2) \frac{dy}{dx} = n (1+y^2)
+\phi
+\chi
+\psi
+\neg
+\to\,
+\phi \to (\psi \to \phi)
+(\phi \to (\psi \to \chi)) \to ((\phi \to \psi) \to (\phi \to \chi))
+(\lnot \phi \to \lnot \psi) \to (\psi \to \phi).
+A
+B
+C
+A \to (B \to A)
+(A \to \lnot B) \to (C \to (A \to \lnot B))
+x\,
+x = x\,
+x\,,
+x = x\,
+x = x\,
+=\,
+\phi\,
+x\,
+t\,\!
+x\,
+\phi\,
+\forall x \, \phi \to \phi^x_t
+\phi^x_t
+\phi\,
+t\,\!
+x\,
+P\,
+x\,
+t\,\!
+P(t)\,
+\forall x \phi \to \phi^x_t
+\phi\,
+x\,
+t\,\!
+x\,
+\phi\,
+\phi^x_t \to \exists x \, \phi
+0\,
+S\,
+\forall x. \lnot (Sx = 0) 
+\forall x. \forall y. (Sx = Sy \to x = y) 
+((\phi(0) \land \forall x.\,(\phi(x) \to \phi(Sx))) \to \forall x.\phi(x)
+\phi\ 
+\N\,
+S\,
+0\,
+\Lambda\,
+\Sigma\,
+\{(\Gamma, \phi)\}\,
+\phi
+\text{if }\Sigma \models \phi\text{ then }\Sigma \vdash \phi
+\Sigma\,
+\Sigma\,
+\Sigma\,
+\phi\,
+\phi\,
+\lnot\phi\,
+|x| = \begin{cases} x, &amp; \mbox{if }  x \ge 0  \\ -x,  &amp; \mbox{if } x 
+|a| = \sqrt{a^2}
+|a| \ge 0 
+|a| = 0 \iff a = 0 
+|ab| = |a||b|
+|a+b|  \le |a| + |b|  
+|(|a|)| = |a|
+|-a| = |a|
+|a - b| = 0 \iff a = b 
+|a - b|  \le |a - c| + |c - b|  
+\left|\frac{a}{b}\right| = \frac{|a|}{|b|}\ 
+b \ne 0
+|a-b| \ge |(|a| - |b|)| 
+|a| \le b \iff -b \le a \le b 
+|a| \ge b \iff a \le -b\ 
+b \le a 
+|x-3| \le 9 
+\iff -9 \le x-3 \le 9 
+\iff -6 \le x \le 12 
+z = x + iy,
+|z| =  \sqrt{x^2 + y^2}.
+z = r e^{i \theta}
+|z| = r
+|z| = \sqrt{z \cdot \overline{z}}
+|z| \neq \sqrt{z^2}
+|x| = x \sgn(x),
+ |x| \sgn(x) = x,
+\sgn(x) = \frac{|x|}{x}.
+\frac{d|x|}{dx} = \frac{x}{|x|} = \begin{cases} -1 &amp; x
+\int|x|dx=\frac{x|x|}{2}+C,
+a = (a_1, a_2, \dots , a_n) 
+b = (b_1, b_2, \dots , b_n) 
+\sqrt{\sum_{i=1}^n(a_i-b_i)^2}. 
+|a - b| = \sqrt{(a - b)^2}.
+ a = a_1 + i a_2 
+ b = b_1 + i b_2 
+|a - b| 
+ = |(a_1 + i a_2) - (b_1 + i b_2)|
+ = |(a_1 - b_1) + i(a_2 - b_2)|
+ = \sqrt{(a_1 - b_1)^2 + (a_2 - b_2)^2}.
+d(a, b) \ge 0 
+d(a, b) = 0 \iff a = b 
+d(a, b) = d(b, a) 
+d(a, b)  \le d(a, c) + d(c, b)  
+|a| = \begin{cases} a, &amp; \mbox{if }  a \ge 0  \\ -a,  &amp; \mbox{if } a \le 0 \end{cases} \; 
+v(a) \ge 0 
+v(ab) = v(a) v(b) 
+v(a+b)  \le v(a) + v(b)  
+d(x, y) \leq \max(d(x,z),d(y,z))
+ v(a) \le 1 \Rightarrow v(1+a) \le 1\ 
+a \in F.
+a, b \in F.
+\|(x_1, x_2, \dots , x_n) \| = \sqrt{\sum_{i=1}^{n} x_i^2}
+\begin{pmatrix}0&amp;0&amp;\cdots&amp;0&amp;-a_0\\1&amp;0&amp;\cdots&amp;0&amp;-a_1\\0&amp;1&amp;\cdots&amp;0&amp;-a_2\\\vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots\\0&amp;0&amp;\cdots&amp;1&amp;-a_{n-1}\end{pmatrix}.
+\frac1{p(x)}-q(x)=\frac{1-p(x)q(x)}{p(x)}
+\sigma^2 = \bar{(x^2)} - \bar x^2 = \displaystyle\frac {\sum_{i=1}^N x_i^2 - (\sum_{i=1}^N x_i)^2/N}{N}. \!
+s^2 = \displaystyle\frac {\sum_{i=1}^n x_i^2 - (\sum_{i=1}^n x_i)^2/n}{n-1}. \!
+\operatorname{Var}(X-k)=\operatorname{Var}(X).
+k
+s^2 = \displaystyle\frac {\sum_{i=1}^n (x_i-K)^2 - (\sum_{i=1}^n (x_i-K))^2/n}{n-1}. \!
+K
+(x_i - K)
+K
+\bar x = \displaystyle \frac {\sum_{j=1}^n x_j}{n}
+x_i
+\bar x_n = \frac{(n-1) \, \bar x_{n-1} + x_n}{n} = \bar x_{n-1} + \frac{x_n - \bar x_{n-1}}{n} \!
+s^2_n = \frac{(n-2)}{(n-1)} \, s^2_{n-1} + \frac{(x_n - \bar x_{n-1})^2}{n}, \quad n&gt;1 
+\sigma^2_n = \frac{(n-1) \, \sigma^2_{n-1} + (x_n - \bar x_{n-1})(x_n - \bar x_{n})}{n}.
+\textstyle\sum_{i=1}^n (x_i - \bar x_n)^2
+M_{2,n}
+M_{2,n}\! = M_{2,n-1} + (x_n - \bar x_{n-1})(x_n - \bar x_n)
+s^2_n = \frac{M_{2,n}}{n-1}
+\sigma^2_n = \frac{M_{2,n}}{n}
+M_k = \bar x_k
+S_k = M_{2,k}
+X
+X_A
+X_B
+\delta\! = \bar x_B - \bar x_A
+\bar x_X = \bar x_A + \delta\cdot\frac{n_B}{n_X}
+M_{2,X} = M_{2,A} + M_{2,B} + \delta^2\cdot\frac{n_A n_B}{n_X}
+n_A \approx n_B
+\bar x_B - \bar x_A
+n_B = 1
+\bar x_X = \frac{n_A \bar x_A + n_B \bar x_B}{n_A + n_B}
+M_{3,X} = M_{3,A} + M_{3,B} + \delta^3\frac{n_A n_B (n_A - n_B)}{n_X^2} + 3\delta\frac{n_AM_{2,B} - n_BM_{2,A}}{n_X}
+M_k
+\Sigma(x - \overline{x})^k
+g_1 = \frac{\sqrt{n} M_3}{M_2^{3/2}},
+g_2 = \frac{n M_4}{M_2^2}-3.
+B = \{x\}
+\delta\! = x - m
+m' = m + \frac{\delta}{n}
+M_2' = M_2 + \delta^2 \frac{ n-1}{n}
+M_3' = M_3 + \delta^3 \frac{ (n - 1) (n - 2)}{n^2} - \frac{3\delta M_2}{n}
+M_4' = M_4 + \frac{\delta^4 (n - 1) (n^2 - 3n + 3)}{n^3} + \frac{6\delta^2 M_2}{n^2} - \frac{4\delta M_3}{n}
+\delta / n
+ H(x_k)=\frac{h(x_k)}{A}
+h(x_k)
+H(x_k)
+x_k
+n
+x(t)
+^{(h)}
+I= A/\Delta x
+Q
+q=1,2,...,Q 
+\gamma_n
+n
+\gamma_{0,q}
+q^{th}
+\Delta t
+\gamma
+Q
+Q
+_c
+\gamma
+\gamma
+m_n
+ \theta_n = E[(x-\mu)^n])
+\operatorname{Cov}(X,Y) = \displaystyle\frac {\sum_{i=1}^n x_i y_i - (\sum_{i=1}^n x_i)(\sum_{i=1}^n y_i)/n}{n}. \!
+K_x
+K_y
+\operatorname{Cov}(X,Y) = \operatorname{Cov}(X-k_x,Y-k_y) = \displaystyle\frac {\sum_{i=1}^n (x_i-K_x) (y_i-K_y) - (\sum_{i=1}^n (x_i-K_x))(\sum_{i=1}^n (y_i-K_y))/n}{n}. \!
+\bar x = \displaystyle \sum_{i=1}^n x_i/n
+\bar y = \displaystyle \sum_{i=1}^n y_i/n
+\operatorname{Cov}(X,Y) = \displaystyle\frac {\sum_{i=1}^n (x_i - \bar x)(y_i - \bar y)}{n}. \!
+\textstyle\sum x_i
+\textstyle\sum y_i
+\textstyle C_n = \sum_{i=1}^n (x_i - \bar x_n)(y_i - \bar y_n)
+\bar x_n = \bar x_{n-1} + \frac{x_n - \bar x_{n-1}}{n} \!
+\bar y_n = \bar y_{n-1} + \frac{y_n - \bar y_{n-1}}{n} \!
+C_n = C_{n-1} + (x_n - \bar x_n)(y_n - \bar y_{n-1}) = C_{n-1} + (y_n - \bar y_n)(x_n - \bar x_{n-1})
+\textstyle (x_n - \bar x_n) = \frac{n-1}{n}(x_n - \bar x_{n-1})
+\textstyle \frac{n-1}{n}(x_n - \bar x_{n-1})(y_n - \bar y_{n-1})
+C_X = C_A + C_B + (\bar x_A - \bar x_B)(\bar y_A - \bar y_B)\cdot\frac{n_A n_B}{n_X}
+c(t) = A\cdot \sin(2 \pi f_c t)\,
+m(t) = M\cdot \cos(2 \pi f_m t + \phi)\,
+y(t)\,
+= [1 + m(t)]\cdot c(t) \,
+= [1 + M\cdot \cos(2 \pi f_m t + \phi)] \cdot A \cdot \sin(2 \pi f_c t)
+y(t) = A\cdot \sin(2 \pi f_c t) + \begin{matrix}\frac{AM}{2} \end{matrix} \left[\sin(2 \pi (f_c + f_m) t + \phi) + \sin(2 \pi (f_c - f_m) t - \phi)\right].\,
+M\,
+A\,
+h=0.5
+h=1.0
+x=a/b
+bx-a
+ax^2 + bx + c
+a
+b
+c
+(a = 1)
+i
+-i
+3+\sqrt{2}i
+x^5 - x + 1 
+a+bi
+a
+b
+\pi
+\cos(\pi/7)
+\cos(3\pi/7)
+\cos(5\pi/7)
+8x^3 - 4x^2 - 4x + 1 = 0
+\tan(3\pi/16)
+\tan(7\pi/16)
+\tan(11\pi/16)
+\tan(15\pi/16)
+x^4 - 4x^3 - 6x^2 + 4x + 1
+\sqrt{2}
+\sqrt[3]{3}/2
+x^2 - 2
+8x^3 - 3
+\phi
+x^2 - x - 1
+\pi
+e
+n
+n
+\mu
+\lambda
+\forall a, b \in X,\ R(a,b) \and R(b,a) \; \Rightarrow \; a = b
+\forall a, b \in X,\ R(a,b) \and a \ne b \Rightarrow \lnot  R(b,a) .
+A \subseteq B \and B \subseteq A \Rightarrow A = B
+\widehat{\rm BAC}.
+(0,\tfrac{1}{4})
+\tfrac{1}{4}
+(\tfrac{1}{4},\tfrac{1}{2})
+\tfrac{1}{2}
+(\tfrac{1}{2},1)
+1
+(0,\tfrac{1}{2}\pi)
+\tfrac{1}{2}\pi
+(\tfrac{1}{2}\pi,\pi)
+\pi
+(\pi,2\pi)
+2\pi\,
+\sin^2A + \sin^2B = 1. \quad \cos^2A + \cos^2B = 1.
+ \tan A = \cot B.  \quad  \quad \quad \sec A = \csc B.
+ \theta = k \frac{s}{2\pi r}. 
+\langle\cdot,\cdot\rangle
+k
+0 \le \ell \le n_0-1
+\ell=0
+\ell=0
+\ell=1
+m_\ell
+\ell
+\ell_0
+m_\ell
+-\ell_0 \le m_\ell \le \ell_0
+m_\ell
+m_\ell=0
+n
+\ell
+n
+\ell
+n=2
+\ell=0
+p_z = p_0
+p_x = \frac{1}{\sqrt{2}} \left(p_1 + p_{-1} \right) 
+p_y = \frac{1}{i\sqrt{2}} \left( p_1 - p_{-1} \right) 
+\ell=0
+u_{01}
+u_{02}
+u_{03}
+u_{11}
+u_{12}
+u_{13}
+u_{21}
+u_{22}
+u_{23}
+n
+n=1
+n
+n
+n
+\ell
+n
+n
+\ell
+\ell
+\ell = 2
+\ell = 3
+\ell
+n
+n
+\ell
+v = Z \alpha c
+\alpha
